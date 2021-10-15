@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Sj/8lackxhETfBwxafgO6ZucnZCiDC2m7AMPdl1x7DEn8+Oqm2tOiUXq3g0vmSiE7EQzV1Yz87cvvEvbinGbQ==",
+  "success": true,
+  "projectFilePath": "C:\\BACKUP_Documents_SSD\\Curso\\DDD\\Presentation\\LocadoraTest\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\renan\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\renan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\renan\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
